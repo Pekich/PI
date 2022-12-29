@@ -7,7 +7,7 @@ def test_fact0():
 
 
 def test_fact1():
-    assert fact(3) == 6
+    assert fact(1) == 1
 
 
 def test_fact5():
