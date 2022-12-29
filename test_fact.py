@@ -1,6 +1,6 @@
 import pytest
 
-from factorial import fact
+from main import fact
 
 def test_fact0():
     assert fact(0) == 1
