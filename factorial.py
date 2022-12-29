@@ -5,4 +5,4 @@ def fact(n):
     return res
 
 if __name__ == '__main__':
-    print(fact(10))
+    print(fact(3))
